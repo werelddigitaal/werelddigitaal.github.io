@@ -5,9 +5,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>WereldDigitaal - Your Website Builder</title>
     <!-- Favicon -->
-    <link rel="icon" href="Transparant File/PNG/WereldDigitaal Tr-03.png" type="image/x-icon">
-    <!-- Logo -->
-    <link rel="icon" href="Transparant File/PNG/WereldDigitaal Tr-03.png" type="image/png">
+    <link rel="icon" href="Transparent File/PNG/WereldDigitaal Tr-03.png" type="image/x-icon">
     <style>
         /* Add your CSS styling here */
         body {
@@ -21,6 +19,14 @@
             color: #fff;
             padding: 10px 0;
             text-align: center;
+            position: relative; /* Added position relative to allow absolute positioning of the logo */
+        }
+        .logo {
+            position: absolute;
+            top: 10px;
+            left: 10px;
+            width: 100px; /* Adjust the width as per your requirement */
+            height: auto; /* Maintain aspect ratio */
         }
         .content {
             padding: 20px;
@@ -38,6 +44,7 @@
 </head>
 <body>
     <div class="header">
+        <img src="Transparent File/PNG/WereldDigitaal Tr-03.png" alt="WereldDigitaal Logo" class="logo">
         <h1>Welcome to WereldDigitaal</h1>
         <p>Your journey to a perfect website starts here.</p>
     </div>
