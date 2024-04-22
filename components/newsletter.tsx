@@ -38,8 +38,8 @@ export default function Newsletter() {
 
               {/* CTA content */}
               <div className="text-center lg:text-left lg:max-w-xl">
-                <h3 className="h3 text-white mb-2">Ben jij opzoek naar een nieuwe website?</h3>
-                <p className="text-gray-300 text-lg mb-6">Wij helpen je graaf verder.</p>
+                <h3 className="h3 text-white mb-2">Kunnen wij u helpen met een nieuwe website?</h3>
+                <p className="text-gray-300 text-lg mb-6">Wij helpen u graaf verder!</p>
 
                 {/* CTA form */}
                 <form className="w-full lg:w-auto">
@@ -49,7 +49,7 @@ export default function Newsletter() {
                   </div>
                   {/* Success message */}
                   {/* <p className="text-sm text-gray-400 mt-3">Thanks for subscribing!</p> */}
-                  <p className="text-sm text-gray-400 mt-3">We will implement your idea or suggestion as soon as we can.</p>
+                  <p className="text-sm text-gray-400 mt-3">Wij komen zo snel mogelijk bij u terug.</p>
                 </form>
               </div>
 
