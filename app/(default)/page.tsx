@@ -1,5 +1,5 @@
 export const metadata = {
-  title: 'Home - WerelDigitaal.nl',
+  title: 'Home - WereldDigitaal.nl',
   description: 'Page description',
 }
 
