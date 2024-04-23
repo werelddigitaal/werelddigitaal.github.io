@@ -1,6 +1,6 @@
 export const metadata = {
   title: 'Home - WereldDigitaal.nl',
-  description: 'Welkom bij WereldDigitaal.nl - Expert in Website Design, Hosting & Branding
+  description: 'Welkom bij WereldDigitaal.nl - Expert in Website Design, Hosting & Branding.
 
 Bent u op zoek naar een professionele en betrouwbare partner voor uw online aanwezigheid? Bij WereldDigitaal.nl combineren we innovatief webdesign met krachtige hostingdiensten om uw bedrijf online te laten schitteren.
 
