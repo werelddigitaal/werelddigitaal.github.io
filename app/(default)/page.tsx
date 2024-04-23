@@ -1,6 +1,7 @@
 export const metadata = {
   title: 'Lokale Service Wereldwijde Zichtbaarheid - WereldDigitaal.nl',
-  description: 'Ontdek hoe WereldDigitaal.nl uw bedrijf kan helpen groeien met innovatieve digitale oplossingen. Vraag nu een gratis consult aan!'
+  description: 'Ontdek hoe WereldDigitaal.nl uw bedrijf kan helpen groeien met innovatieve digitale oplossingen. Vraag nu een gratis consult aan!',
+}
 
 import Hero from '@/components/hero'
 import Features from '@/components/features'
