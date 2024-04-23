@@ -33,7 +33,7 @@ export default function Features() {
           {/* Section header */}
           <div className="max-w-3xl mx-auto text-center pb-12 md:pb-16">
             <h1 className="h2 mb-4">Bekijk onze oplossingen</h1>
-            <p className="text-xl text-gray-600">WereldDigitaal.nl kan u ontzorgen op het gebied van branding, websiteontwikkeling en mailhosting.</p>
+            <p className="text-xl text-gray-600">Wij kunnen u ontzorgen op het gebied van branding, websiteontwikkeling en mailhosting.</p>
           </div>
 
           {/* Section content */}
