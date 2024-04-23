@@ -1,43 +1,4 @@
 import Logo from './logo'
-import React, { useEffect } from 'react';
-
-const MyComponent = () => {
-  
-  useEffect(() => {
-    // Define the function for adding the script
-    const addScript = (src) => {
-      const script = document.createElement('script');
-      script.src = src;
-      script.async = true;
-      document.getElementsByTagName('head')[0].appendChild(script);
-    };
-
-    // The script you want to add
-    const scriptSrc = 'https://sc.lfeeder.com/lftracker_v1_lAxoEaKELXb7OYGd.js';
-
-    // Call the function to add the script
-    addScript(scriptSrc);
-
-    // Cleanup: Remove the script when the component unmounts
-    return () => {
-      const scripts = document.getElementsByTagName('script');
-      for (let i = 0; i < scripts.length; i++) {
-        if (scripts[i].src === scriptSrc) {
-          document.getElementsByTagName('head')[0].removeChild(scripts[i]);
-          break;
-        }
-      }
-    };
-  }, []); // The empty array [] ensures that this useEffect runs once when the component mounts
-
-  return (
-    <div>
-      {/* Your component content */}
-    </div>
-  );
-};
-
-export default MyComponent;
 
 export default function Footer() {
   return (
