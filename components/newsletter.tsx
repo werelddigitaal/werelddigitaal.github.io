@@ -39,7 +39,7 @@ export default function Newsletter() {
               {/* CTA content */}
               <div className="text-center lg:text-left lg:max-w-xl">
                 <h3 className="h3 text-white mb-2">Kunnen wij u helpen met een nieuwe website?</h3>
-                <p className="text-gray-300 text-lg mb-6">Wij helpen u graaf verder!</p>
+                <p className="text-gray-300 text-lg mb-6">Wij helpen u graaf verder!!</p>
 
                 {/* CTA form */}
                 <form className="w-full lg:w-auto">
