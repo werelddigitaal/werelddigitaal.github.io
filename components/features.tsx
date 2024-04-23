@@ -1,4 +1,4 @@
-'use client'
+ij'use client'
 
 import { useState, useRef, useEffect } from 'react'
 import { Transition } from '@headlessui/react'
@@ -32,8 +32,8 @@ export default function Features() {
 
           {/* Section header */}
           <div className="max-w-3xl mx-auto text-center pb-12 md:pb-16">
-            <h1 className="h2 mb-4">Explore the solutions</h1>
-            <p className="text-xl text-gray-600">Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur excepteur sint occaecat cupidatat.</p>
+            <h1 className="h2 mb-4">Bekijk onze oplossingen</h1>
+            <p className="text-xl text-gray-600">WereldDigitaal.nl kan u ontzorgen op het gebied van branding, websiteontwikkeling en mailhosting.</p>
           </div>
 
           {/* Section content */}
