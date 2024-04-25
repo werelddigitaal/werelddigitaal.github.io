@@ -53,7 +53,7 @@ export default function Features() {
                   onClick={(e) => { e.preventDefault(); setTab(1); }}
                 >
                   <div>
-                    <div className="font-bold leading-snug tracking-tight mb-1">WereldDigitaal Branding Service</div>
+                    <div className="font-bold leading-snug tracking-tight mb-1">Branding Service</div>
                     <div className="text-gray-600">Versterk uw bedrijfsidentiteit met krachtige brandingoplossingen die uw merk laten stralen.</div>
                   </div>
                   <div className="flex justify-center items-center w-8 h-8 bg-white rounded-full shadow flex-shrink-0 ml-3">
@@ -68,7 +68,7 @@ export default function Features() {
                   onClick={(e) => { e.preventDefault(); setTab(2); }}
                 >
                   <div>
-                    <div className="font-bold leading-snug tracking-tight mb-1">WereldDigitaal Webdesign en Hosting Service</div>
+                    <div className="font-bold leading-snug tracking-tight mb-1">Webdesign en Hosting Service</div>
                     <div className="text-gray-600">Maak indruk met een unieke online aanwezigheid, ontworpen met oog voor detail en gebruiksvriendelijkheid.</div>
                   </div>
                   <div className="flex justify-center items-center w-8 h-8 bg-white rounded-full shadow flex-shrink-0 ml-3">
@@ -83,7 +83,7 @@ export default function Features() {
                   onClick={(e) => { e.preventDefault(); setTab(3); }}
                 >
                   <div>
-                    <div className="font-bold leading-snug tracking-tight mb-1">WereldDigitaal Mailing service</div>
+                    <div className="font-bold leading-snug tracking-tight mb-1">Mailing service</div>
                     <div className="text-gray-600">Val op in de inbox van uw klanten met professioneel vormgegeven e-mails die de aandacht trekken en uw boodschap helder overbrengen.</div>
                   </div>
                   <div className="flex justify-center items-center w-8 h-8 bg-white rounded-full shadow flex-shrink-0 ml-3">
