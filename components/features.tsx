@@ -68,7 +68,7 @@ export default function Features() {
                   onClick={(e) => { e.preventDefault(); setTab(2); }}
                 >
                   <div>
-                    <div className="font-bold leading-snug tracking-tight mb-1">Webdesign en Hosting Service</div>
+                    <div className="font-bold leading-snug tracking-tight mb-1">Webdesign en Hosting</div>
                     <div className="text-gray-600">Maak indruk met een unieke online aanwezigheid, ontworpen met oog voor detail en gebruiksvriendelijkheid.</div>
                   </div>
                   <div className="flex justify-center items-center w-8 h-8 bg-white rounded-full shadow flex-shrink-0 ml-3">
