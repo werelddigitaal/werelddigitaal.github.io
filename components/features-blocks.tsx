@@ -22,10 +22,9 @@ export default function FeaturesBlocks() {
             <div className="relative flex flex-col items-center p-6 bg-white rounded shadow-xl hover:scale-110 transition-transform duration-300">
               <svg className="w-16 h-16 p-1 -mt-1 mb-2" viewBox="0 0 64 64" xmlns="http://www.w3.org/2000/svg">
                 <g fill="none" fillRule="evenodd">
-                  <rect className="fill-current text-blue-600" width="64" height="64" rx="32" />
+                  <circle className="fill-current text-blue-600" cx="32" cy="32" r="32" />
                   <path className="stroke-current text-white" strokeLinecap="round" strokeWidth="4" d="M19 38h26v12H19z" />
                   <path className="stroke-current text-white" strokeLinecap="round" strokeWidth="4" d="M32 26V8M32 52v-8" />
-                  <circle className="stroke-current text-white" strokeWidth="4" cx="32" cy="32" r="16" />
                 </g>
               </svg>
               <h4 className="text-xl font-bold leading-snug tracking-tight mb-1">Branding & Identiteit</h4>
@@ -36,10 +35,8 @@ export default function FeaturesBlocks() {
             <div className="relative flex flex-col items-center p-6 bg-white rounded shadow-xl hover:scale-110 transition-transform duration-300">
               <svg className="w-16 h-16 p-1 -mt-1 mb-2" viewBox="0 0 64 64" xmlns="http://www.w3.org/2000/svg">
                 <g fill="none" fillRule="evenodd">
-                  <rect className="fill-current text-blue-600" width="64" height="64" rx="32" />
+                  <circle className="fill-current text-blue-600" cx="32" cy="32" r="32" />
                   <path className="stroke-current text-white" strokeLinecap="round" strokeWidth="4" d="M20.5 30.5l8-8M43.5 30.5l-8-8" />
-                  <circle className="stroke-current text-white" strokeWidth="4" cx="32" cy="32" r="16" />
-                  <path className="stroke-current text-white" strokeLinecap="round" strokeWidth="4" d="M32 16v32M16 32h32" />
                 </g>
               </svg>
               <h4 className="text-xl font-bold leading-snug tracking-tight mb-1">Grafisch ontwerp</h4>
@@ -50,9 +47,8 @@ export default function FeaturesBlocks() {
             <div className="relative flex flex-col items-center p-6 bg-white rounded shadow-xl hover:scale-110 transition-transform duration-300">
               <svg className="w-16 h-16 p-1 -mt-1 mb-2" viewBox="0 0 64 64" xmlns="http://www.w3.org/2000/svg">
                 <g fill="none" fillRule="evenodd">
-                  <rect className="fill-current text-blue-600" width="64" height="64" rx="32" />
+                  <circle className="fill-current text-blue-600" cx="32" cy="32" r="32" />
                   <path className="stroke-current text-white" strokeLinecap="round" strokeWidth="4" d="M28 8h8v48h-8zM48 28v8H16v-8z" />
-                  <path className="stroke-current text-blue-300" strokeLinecap="round" strokeWidth="4" d="M8 28h48M28 8v48" />
                 </g>
               </svg>
               <h4 className="text-xl font-bold leading-snug tracking-tight mb-1">Website ontwerp</h4>
@@ -63,10 +59,8 @@ export default function FeaturesBlocks() {
             <div className="relative flex flex-col items-center p-6 bg-white rounded shadow-xl hover:scale-110 transition-transform duration-300">
               <svg className="w-16 h-16 p-1 -mt-1 mb-2" viewBox="0 0 64 64" xmlns="http://www.w3.org/2000/svg">
                 <g fill="none" fillRule="evenodd">
-                  <rect className="fill-current text-blue-600" width="64" height="64" rx="32" />
+                  <circle className="fill-current text-blue-600" cx="32" cy="32" r="32" />
                   <path className="stroke-current text-white" strokeLinecap="round" strokeWidth="4" d="M28 8h8v48h-8zM48 28v8H16v-8z" />
-                  <path className="stroke-current text-blue-300" strokeLinecap="round" strokeWidth="4" d="M8 28h48M28 8v48" />
-                  <circle className="stroke-current text-white" strokeWidth="4" cx="32" cy="32" r="16" />
                   <path className="stroke-current text-white" strokeLinecap="round" strokeWidth="4" d="M16 24h32v16H16z" />
                 </g>
               </svg>
@@ -78,7 +72,7 @@ export default function FeaturesBlocks() {
             <div className="relative flex flex-col items-center p-6 bg-white rounded shadow-xl hover:scale-110 transition-transform duration-300">
               <svg className="w-16 h-16 p-1 -mt-1 mb-2" viewBox="0 0 64 64" xmlns="http://www.w3.org/2000/svg">
                 <g fill="none" fillRule="evenodd">
-                  <rect className="fill-current text-blue-600" width="64" height="64" rx="32" />
+                  <circle className="fill-current text-blue-600" cx="32" cy="32" r="32" />
                   <path className="stroke-current text-white" strokeLinecap="round" strokeWidth="4" d="M22 34l-4-4M42 34l4-4M32 22v24" />
                   <path className="stroke-current text-white" strokeLinecap="round" strokeWidth="4" d="M28 12h8v4h-8zM28 48h8v4h-8zM36 12v8h4v-8zM24 48v-8h-4v8z" />
                 </g>
@@ -91,10 +85,8 @@ export default function FeaturesBlocks() {
             <div className="relative flex flex-col items-center p-6 bg-white rounded shadow-xl hover:scale-110 transition-transform duration-300">
               <svg className="w-16 h-16 p-1 -mt-1 mb-2" viewBox="0 0 64 64" xmlns="http://www.w3.org/2000/svg">
                 <g fill="none" fillRule="evenodd">
-                  <rect className="fill-current text-blue-600" width="64" height="64" rx="32" />
+                  <circle className="fill-current text-blue-600" cx="32" cy="32" r="32" />
                   <path className="stroke-current text-white" strokeLinecap="round" strokeWidth="4" d="M28 8h8v48h-8zM48 28v8H16v-8z" />
-                  <path className="stroke-current text-blue-300" strokeLinecap="round" strokeWidth="4" d="M8 28h48M28 8v48" />
-                  <circle className="stroke-current text-white" strokeWidth="4" cx="32" cy="32" r="16" />
                   <path className="stroke-current text-white" strokeLinecap="round" strokeWidth="4" d="M24 24h16v16H24z" />
                 </g>
               </svg>
