@@ -32,7 +32,7 @@ export default function FeaturesBlocks() {
                 </g>
               </svg>
               <h4 className="text-xl font-bold leading-snug tracking-tight mb-1">Krachtige Websites met HTML5</h4>
-              <p className="text-gray-600 text-center">Krachtige websites op maat, gebouwd voor een optimale gebruikerservaring.</p>
+              <p className="text-gray-600 text-center">Krachtige websites op maat, gebouwd voor een optimale gebruikerservaring, herkenbaar en uniek!.</p>
             </div>
 
             {/* 2nd item */}
