@@ -11,8 +11,8 @@ export default function FeaturesBlocks() {
 
           {/* Section header */}
           <div className="max-w-3xl mx-auto text-center pb-12 md:pb-20">
-            <h2 className="h2 mb-4">Explore the solutions</h2>
-            <p className="text-xl text-gray-600">Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur excepteur sint occaecat cupidatat.</p>
+            <h2 className="h2 mb-4">Ontdek onze Meest Gevraagde Diensten</h2>
+            <p className="text-xl text-gray-600">Bekijk onze beste diensten die klanten het meest aanvragen. Van geavanceerde technologie tot persoonlijke service, we streven naar kwaliteit en tevredenheid. Bekijk onze topaanbiedingen en ervaar waar ons bedrijf voor staat.</p>
           </div>
 
           {/* Items */}
@@ -32,7 +32,7 @@ export default function FeaturesBlocks() {
                 </g>
               </svg>
               <h4 className="text-xl font-bold leading-snug tracking-tight mb-1">Krachtige Websites met HTML5</h4>
-              <p className="text-gray-600 text-center">Krachtige websites op maat, gebouwd met behulp van de nieuwste HTML5-technologieën voor een optimale gebruikerservaring.</p>
+              <p className="text-gray-600 text-center">Krachtige websites op maat, gebouwd voor een optimale gebruikerservaring.</p>
             </div>
 
             {/* 2nd item */}
@@ -82,7 +82,7 @@ export default function FeaturesBlocks() {
                 </g>
               </svg>
               <h4 className="text-xl font-bold leading-snug tracking-tight mb-1">Complete Branding Solutions</h4>
-              <p className="text-gray-600 text-center">Van concept tot consistentie, wij bieden een uitgebreid scala aan brandingdiensten om jouw merk overtuigend en herkenbaar te maken op alle kanalen.</p>
+              <p className="text-gray-600 text-center">Wij bieden een uitgebreid scala aan brandingdiensten om jouw merk overtuigend en herkenbaar te maken op alle kanalen.</p>
             </div>
 
             {/* 5th item */}
